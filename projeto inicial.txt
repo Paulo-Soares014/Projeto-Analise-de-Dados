@@ -1,0 +1,8 @@
+analise-dados-vendas/
+│
+├── data
+├── notebooks
+├── images
+└── README.md
+
+

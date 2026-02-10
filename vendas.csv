@@ -1,0 +1,8 @@
+order_id,order_date,product,category,quantity,price
+1,2023-01-10,Notebook,Eletrônicos,2,3500
+2,2023-02-15,Mouse,Eletrônicos,5,80
+3,2023-03-20,Teclado,Eletrônicos,3,150
+4,2023-10-05,Notebook,Eletrônicos,1,3500
+5,2023-11-18,Monitor,Eletrônicos,2,1200
+6,2023-12-10,Notebook,Eletrônicos,3,3500
+7,2023-12-22,Mouse,Eletrônicos,10,80
